@@ -7,4 +7,6 @@ Coverage includes:
 - Log analysis concepts
 - Alert triage methodology
 - Common attack patterns
-- First-response actions
+- Incident response actions
+- Threat Intelligence
+- Digital Forensics
